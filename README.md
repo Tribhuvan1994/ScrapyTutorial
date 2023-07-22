@@ -2,7 +2,8 @@
 
 This is a scrapy project for Data Acquisition Management System. Gone through scrapy tutorial online.
 
-This project is used to extract data from the website and store in a database. For this project I have used SQLite database. We can also save the data in JSON, xml or csv file as required.
+This project is used to extract data from the website and store in a database. For this project I have used SQLite database. The sqlite database can be accessed with https://sqliteviewer.app/#/myquotes.db/table/quotes_tb/ 
+We can also save the data in JSON, xml or csv file as required.
 
 For scraping, a virtual environment is created and scraping project is started. A python library scrapy is also installed. 
 >>>pip install scrapy
